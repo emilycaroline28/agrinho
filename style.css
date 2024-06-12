@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(236, 231, 182);
+    color: rgb(107, 80, 46);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img-container {
+    text-align: center;
+    display: block;
+ }
